@@ -1,0 +1,501 @@
+#Id|nom|age|taille|pied|nationalite|position|club|ligue|fin_contrat|valeur_actuelle|valeur_max|montant_transfert|CDM|LDC|nb_selections|nb_buts
+340.html|nicolas-gonzalez|24|1.80|gauche|Argentine|Ailier gauche|ACF Fiorentina|serie-a| 2026|23|25|35.76 |0|0|21|3
+205.html|kurt-zouma|28|1.90|droit|France|Défenseur central|West Ham United|premier-league| 2025|32|35|65.30 |0|1|11|1
+74.html|alessandro-bastoni|23|1.90|gauche|Italie|Défenseur central|Inter Milan|serie-a| 2024|55|60|31.10 |0|0|17|1
+439.html|ramy-bensebaini|27|1.87|gauche|Algérie|Arrière gauche|Borussia Mönchengladbach|bundesliga| 2023|20|22|10.00 |0|0|51|6
+317.html|renato-sanches|25|1.76|droit|Portugal|Milieu central|Paris Saint-Germain|ligue-1| 2027|25|30|78.50 |0|0|32|3
+252.html|jacob-ramsey|21|1.80|droit|Angleterre|Milieu central|Aston Villa|premier-league| 2027|28|28|0.00|0|0|7|2
+481.html|jeremy-doku|20|1.73|droit|Belgique|Ailier droit|Stade Rennais FC|ligue-1| 2025|18|26|26.00 |0|0|12|2
+23.html|luis-diaz|26|1.80|droit|Colombie|Ailier gauche|FC Liverpool|premier-league| 2027|75|75|54.22 |0|0|37|8
+194.html|yves-bissouma|26|1.82|droit|Mali|Milieu central|Tottenham Hotspur|premier-league| 2026|32|35|46.00 |0|0|27|3
+301.html|axel-disasi|24|1.90|droit|France|Défenseur central|AS Monaco|ligue-1| 2025|25|25|13.00 |0|0|3|0
+244.html|eric-dier|29|1.88|droit|Angleterre|Défenseur central|Tottenham Hotspur|premier-league| 2024|30|40|5.00 |0|0|49|3
+35.html|victor-osimhen|24|1.86|droit|Nigeria|Avant-centre|SSC Napoli|serie-a| 2025|70|70|104.40 |0|0|23|15
+497.html|eddie-nketiah|23|1.75|droit|Angleterre|Avant-centre|FC Arsenal|premier-league| 2027|18|20|0.00|0|0|17|16
+182.html|sebastien-haller|28|1.91|droit|Côte d'Ivoire|Avant-centre|Borussia Dortmund|bundesliga| 2026|35|45|111.25 |0|0|15|4
+478.html|mohammed-salisu|23|1.88|gauche|Ghana|Défenseur central|FC Southampton|premier-league| 2024|18|18|12.00 |0|0|6|2
+356.html|matty-cash|25|1.85|droit|Pologne|Arrière droit|Aston Villa|premier-league| 2027|22|25|15.75 |0|0|12|1
+213.html|ryan-gravenberch|20|1.90|droit|Pays-Bas|Milieu central|FC Bayern München|bundesliga| 2027|30|35|18.50 |0|0|11|1
+62.html|federico-chiesa|25|1.75|droit|Italie|Ailier gauche|Juventus Turin|serie-a| 2025|60|70|55.10 |0|0|40|4
+9.html|gavi|18|1.73|droit|Espagne|Milieu central|FC Barcelone|laliga| 2026|90|90|0.00|0|0|17|3
+268.html|granit-xhaka|30|1.86|gauche|Suisse|Milieu central|FC Arsenal|premier-league| 2024|28|50|53.50 |0|0|111|12
+287.html|giorgi-mamardashvili|22|1.97|gauche|Géorgie|Gardien de but|FC Valencia|laliga| 2027|25|25|1.05 |0|0|6|0
+454.html|alejandro-grimaldo|27|1.71|gauche|Espagne|Arrière gauche|SL Benfica|liga-portugal| 2023|20|35|2.10 |0|0|2|0
+141.html|piotr-zielinski|28|1.80|ambidextre|Pologne|Milieu central|SSC Napoli|serie-a| 2024|40|50|16.10 |0|0|89|10
+19.html|joshua-kimmich|28|1.77|droit|Allemagne|Milieu défensif|FC Bayern München|bundesliga| 2025|80|90|10.50 |0|1|74|5
+395.html|jean-clair-todibo|23|1.90|droit|France|Défenseur central|OGC Nice|ligue-1| 2027|20|20|13.00 |0|0|1|0
+403.html|luka-sucic|20|1.85|gauche|Croatie|Milieu offensif|Red Bull Salzbourg|bundesliga| 2025|20|20|0.00|0|0|4|0
+116.html|ederson|29|1.88|gauche|Brésil|Gardien de but|Manchester City|premier-league| 2026|45|70|40.50 |0|0|19|0
+383.html|djibril-sow|26|1.84|droit|Suisse|Milieu central|Eintracht Frankfurt|bundesliga| 2024|22|22|13.50 |0|0|36|0
+229.html|kieran-tierney|25|1.80|gauche|Écosse|Arrière gauche|FC Arsenal|premier-league| 2026|30|32|27.00 |0|0|35|1
+415.html|ademola-lookman|25|1.74|droit|Nigeria|Deuxième attaquant|Atalanta BC|serie-a| 2026|20|20|38.50 |0|0|4|1
+100.html|alisson|30|1.93|droit|Brésil|Gardien de but|FC Liverpool|premier-league| 2027|50|90|70.50 |0|1|61|0
+58.html|jadon-sancho|22|1.80|droit|Angleterre|Ailier gauche|Manchester United|premier-league| 2026|60|130|105.76 |0|0|23|3
+291.html|matteo-guendouzi|23|1.85|droit|France|Milieu central|Olympique de Marseille|ligue-1| 2025|25|50|20.00 |0|0|7|1
+442.html|angelino|26|1.71|gauche|Espagne|Arrière gauche|TSG 1899 Hoffenheim|bundesliga| 2023|20|35|42.00 |0|0|2|0
+157.html|randal-kolo-muani|24|1.87|droit|France|Avant-centre|Eintracht Frankfurt|bundesliga| 2027|37|37|0.00|0|0|5|1
+120.html|jarrod-bowen|26|1.82|gauche|Angleterre|Ailier droit|West Ham United|premier-league| 2025|42|42|21.30 |0|0|4|0
+78.html|andrew-robertson|28|1.78|gauche|Écosse|Arrière gauche|FC Liverpool|premier-league| 2026|55|80|12.60 |0|1|59|3
+97.html|fikayo-tomori|25|1.85|droit|Angleterre|Défenseur central|AC Milan|serie-a| 2027|50|50|32.20 |0|0|3|0
+435.html|jonathan-bamba|26|1.75|droit|France|Ailier gauche|LOSC Lille|ligue-1| 2023|20|25|0.00|0|0|19|5
+209.html|goncalo-ramos|21|1.85|droit|Portugal|Avant-centre|SL Benfica|liga-portugal| 2026|30|30|0.00|0|0|5|4
+177.html|robin-le-normand|26|1.87|droit|France|Défenseur central|Real Sociedad|laliga| 2026|35|35|0.00|0|0||
+198.html|diogo-dalot|23|1.83|droit|Portugal|Arrière droit|Manchester United|premier-league| 2024|32|32|22.50 |0|0|10|2
+462.html|geoffrey-kondogbia|30|1.88|gauche|République Centrafricaine|Milieu défensif|Atlético de Madrid|laliga| 2024|20|30|97.00 |0|0|8|1
+161.html|min-jae-kim|26|1.90|droit|Corée du Sud|Défenseur central|SSC Napoli|serie-a| 2025|35|35|26.30 |0|0|47|3
+39.html|kai-havertz|23|1.93|gauche|Allemagne|Milieu offensif|Chelsea FC|premier-league| 2025|70|90|80.00 |0|1|33|12
+474.html|aaron-hickey|20|1.85|ambidextre|Écosse|Arrière gauche|FC Brentford|premier-league| 2026|18|18|18.20 |0|0|7|0
+248.html|marc-andre-ter-stegen|30|1.87|droit|Allemagne|Gardien de but|FC Barcelone|laliga| 2025|30|90|12.00 |0|1|30|0
+136.html|jose-maria-gimenez|28|1.85|droit|Uruguay|Défenseur central|Atlético de Madrid|laliga| 2025|40|70|0.995 |0|0|81|8
+423.html|nordi-mukiele|25|1.87|droit|France|Arrière droit|Paris Saint-Germain|ligue-1| 2027|20|25|29.50 |0|0|1|0
+81.html|david-alaba|30|1.80|gauche|Autriche|Défenseur central|Real Madrid|laliga| 2026|55|65|0.150 |0|3|98|15
+5.html|pedri|20|1.74|droit|Espagne|Milieu central|FC Barcelone|laliga| 2026|100|100|17.50 |0|0|18|0
+458.html|raphael-guerreiro|29|1.70|gauche|Portugal|Arrière gauche|Borussia Dortmund|bundesliga| 2023|20|40|14.50 |0|0|61|4
+15.html|rodri|26|1.91|droit|Espagne|Milieu défensif|Manchester City|premier-league| 2027|80|80|84.20 |0|0|39|1
+264.html|luke-shaw|27|1.78|gauche|Angleterre|Arrière gauche|Manchester United|premier-league| 2024|28|42|37.50 |0|0|28|3
+321.html|tyrone-mings|29|1.96|gauche|Angleterre|Défenseur central|Aston Villa|premier-league| 2026|25|32|33.60 |0|0|17|2
+42.html|leroy-sane|27|1.83|gauche|Allemagne|Ailier droit|FC Bayern München|bundesliga| 2025|70|100|101.00 |0|0|50|11
+399.html|fabio-carvalho|20|1.70|droit|Portugal|Milieu offensif|FC Liverpool|premier-league| 2027|20|20|5.90 |0|0|4|2
+233.html|otavio|28|1.72|droit|Portugal|Milieu droit|FC Porto|liga-portugal| 2025|30|30|2.50 |0|0|11|2
+376.html|aleksandr-golovin|26|1.78|droit|Russie|Milieu offensif|AS Monaco|ligue-1| 2024|22|30|30.00 |0|0|45|5
+419.html|arthur-theate|22|1.85|gauche|Belgique|Défenseur central|Stade Rennais FC|ligue-1| 2026|20|20|25.75 |0|0|4|0
+54.html|ronald-araujo|23|1.88|droit|Uruguay|Défenseur central|FC Barcelone|laliga| 2026|60|60|5.10 |0|0|12|0
+225.html|scott-mctominay|26|1.91|droit|Écosse|Milieu défensif|Manchester United|premier-league| 2025|30|35|0.00|0|0|36|1
+360.html|vitaliy-mykolenko|23|1.80|gauche|Ukraine|Arrière gauche|FC Everton|premier-league| 2026|22|22|23.50 |0|0|28|1
+272.html|steven-bergwijn|25|1.78|droit|Pays-Bas|Ailier gauche|Ajax Amsterdam|eredivisie| 2027|27|35|61.37 |0|0|28|7
+337.html|andre-silva|27|1.85|droit|Portugal|Avant-centre|RasenBallsport Leipzig|bundesliga| 2026|24|45|67.80 |0|0|53|19
+273.html|david-raum|24|1.80|gauche|Allemagne|Arrière gauche|RasenBallsport Leipzig|bundesliga| 2027|26|26|26.00 |0|0|15|0
+336.html|malcom|26|1.71|gauche|Brésil|Ailier droit|Zenit St. Pétersbourg|premier-liga| 2027|24|45|86.00 |0|0|0|0
+224.html|diego-carlos|29|1.85|droit|Brésil|Défenseur central|Aston Villa|premier-league| 2026|30|50|47.30 |0|0|0|0
+361.html|davide-frattesi|23|1.84|droit|Italie|Milieu central|US Sassuolo|serie-a| 2026|22|22|5.00 |0|0|4|0
+418.html|houssem-aouar|24|1.75|droit|France|Milieu central|Olympique Lyonnais|ligue-1| 2023|20|55|0.00|0|0|1|0
+55.html|cody-gakpo|23|1.93|droit|Pays-Bas|Ailier gauche|FC Liverpool|premier-league| 2028|60|60|42.00 |0|0|14|6
+398.html|oihan-sancet|22|1.88|droit|Espagne|Milieu offensif|Athletic Bilbao|laliga| 2024|20|20|0.300 |0|0|4|0
+232.html|joe-gomez|25|1.88|droit|Angleterre|Défenseur central|FC Liverpool|premier-league| 2027|30|42|4.90 |0|1|11|0
+377.html|david-raya|27|1.83|droit|Espagne|Gardien de but|FC Brentford|premier-league| 2024|22|22|3.35 |0|0|2|0
+43.html|joao-cancelo|28|1.82|droit|Portugal|Arrière droit|FC Bayern München|bundesliga| 2023|70|70|120.40 |0|0|41|7
+265.html|roberto-firmino|31|1.81|droit|Brésil|Avant-centre|FC Liverpool|premier-league| 2023|28|90|45.00 |0|1|55|17
+320.html|inaki-williams|28|1.86|droit|Ghana|Avant-centre|Athletic Bilbao|laliga| 2028|25|50|0.00|0|0|6|0
+459.html|memphis-depay|29|1.78|droit|Pays-Bas|Avant-centre|Atlético de Madrid|laliga| 2025|20|55|53.00 |0|0|86|43
+14.html|declan-rice|24|1.88|droit|Angleterre|Milieu défensif|West Ham United|premier-league| 2024|80|80|0.00|0|0|39|2
+137.html|youri-tielemans|25|1.76|droit|Belgique|Milieu central|Leicester City|premier-league| 2023|40|55|70.00 |0|0|58|5
+422.html|pervis-estupinan|25|1.75|gauche|Équateur|Arrière gauche|Brighton &amp; Hove Albion|premier-league| 2027|20|20|34.70 |0|0|31|3
+4.html|phil-foden|22|1.71|gauche|Angleterre|Ailier gauche|Manchester City|premier-league| 2027|110|110|0.00|0|0|22|3
+80.html|romelu-lukaku|29|1.91|gauche|Belgique|Avant-centre|Inter Milan|serie-a| 2023|55|100|333.36 |0|0|104|68
+249.html|tyrick-mitchell|23|1.75|gauche|Angleterre|Arrière gauche|Crystal Palace|premier-league| 2025|28|28|0.00|0|0|2|0
+160.html|giovanni-reyna|20|1.85|droit|États-Unis|Milieu offensif|Borussia Dortmund|bundesliga| 2025|35|42|0.00|0|0|16|4
+38.html|trent-alexander-arnold|24|1.80|droit|Angleterre|Arrière droit|FC Liverpool|premier-league| 2025|70|110|0.00|0|1|18|1
+475.html|dwight-mcneil|23|1.83|gauche|Angleterre|Ailier gauche|FC Everton|premier-league| 2027|18|25|17.00 |0|0|10|0
+176.html|benjamin-pavard|26|1.86|droit|France|Arrière droit|FC Bayern München|bundesliga| 2024|35|45|40.00 |1|1|47|2
+199.html|joelinton|26|1.86|droit|Brésil|Milieu offensif|Newcastle United|premier-league| 2025|32|35|46.80 |0|0|4|2
+463.html|matthias-ginter|29|1.91|droit|Allemagne|Défenseur central|SC Fribourg|bundesliga| 2027|20|35|27.00 |1|0|48|2
+208.html|edmond-tapsoba|24|1.94|droit|Burkina Faso|Défenseur central|Bayer 04 Leverkusen|bundesliga| 2026|30|40|20.20 |0|0|32|0
+121.html|mykhaylo-mudryk|22|1.75|droit|Ukraine|Ailier gauche|Chelsea FC|premier-league| 2031|40|40|70.00 |0|0|8|0
+79.html|fabinho|29|1.88|droit|Brésil|Milieu défensif|FC Liverpool|premier-league| 2026|55|70|51.50 |0|1|29|0
+96.html|gianluigi-donnarumma|24|1.96|droit|Italie|Gardien de but|Paris Saint-Germain|ligue-1| 2026|50|65|0.250 |0|0|50|0
+434.html|borna-sosa|25|1.87|gauche|Croatie|Arrière gauche|VfB Stuttgart|bundesliga| 2025|20|23|6.00 |0|0|13|1
+443.html|miguel-almiron|29|1.74|gauche|Paraguay|Ailier droit|Newcastle United|premier-league| 2026|20|20|32.30 |0|0|48|6
+156.html|aymeric-laporte|28|1.89|gauche|Espagne|Défenseur central|Manchester City|premier-league| 2025|38|75|65.00 |0|0|19|1
+290.html|juan-foyth|25|1.87|droit|Argentine|Arrière droit|Villarreal CF|laliga| 2026|25|25|25.50 |1|0|17|0
+414.html|pascal-struijk|23|1.90|gauche|Pays-Bas|Défenseur central|Leeds United|premier-league| 2027|20|20|0.00|0|0|3|0
+101.html|marco-verratti|30|1.65|droit|Italie|Milieu central|Paris Saint-Germain|ligue-1| 2026|50|75|12.00 |0|0|51|3
+59.html|cristian-romero|24|1.85|droit|Argentine|Défenseur central|Tottenham Hotspur|premier-league| 2027|60|60|105.06 |1|0|19|1
+382.html|adam-webster|28|1.90|droit|Angleterre|Défenseur central|Brighton &amp; Hove Albion|premier-league| 2026|22|22|27.17 |0|0|5|0
+228.html|dominic-calvert-lewin|25|1.89|droit|Angleterre|Avant-centre|FC Everton|premier-league| 2025|30|45|1.80 |0|0|11|4
+402.html|matheus-cunha|23|1.84|droit|Brésil|Avant-centre|Wolverhampton Wanderers|premier-league| 2023|20|32|63.00 |0|0|8|0
+117.html|pierre-emile-hojbjerg|27|1.85|droit|Danemark|Milieu central|Tottenham Hotspur|premier-league| 2025|45|45|32.60 |0|0|63|5
+394.html|ederson|23|1.83|droit|Brésil|Milieu central|Atalanta BC|serie-a| 2026|20|20|28.20 |0|0|1|0
+455.html|ben-davies|29|1.81|gauche|Pays de Galles|Arrière gauche|Tottenham Hotspur|premier-league| 2025|20|25|12.65 |0|0|77|1
+140.html|nabil-fekir|29|1.73|gauche|France|Milieu offensif|Real Betis Balompié|laliga| 2026|40|70|19.75 |1|0|25|2
+18.html|bernardo-silva|28|1.73|gauche|Portugal|Milieu offensif|Manchester City|premier-league| 2025|80|100|65.75 |0|0|78|8
+269.html|aleksandar-mitrovi%C4%87|28|1.89|droit|Serbie|Avant-centre|FC Fulham|premier-league| 2026|28|28|48.80 |0|0|79|52
+286.html|tino-livramento|20|1.73|droit|Angleterre|Arrière droit|FC Southampton|premier-league| 2026|25|25|5.90 |0|0|5|0
+63.html|theo-hernandez|25|1.84|gauche|France|Arrière gauche|AC Milan|serie-a| 2026|60|60|46.80 |0|1|13|2
+8.html|federico-valverde|24|1.82|droit|Uruguay|Milieu central|Real Madrid|laliga| 2027|100|100|5.00 |0|1|47|4
+357.html|nahuel-molina|24|1.75|droit|Argentine|Arrière droit|Atlético de Madrid|laliga| 2027|22|22|20.00 |1|0|27|1
+212.html|eberechi-eze|24|1.78|droit|Angleterre|Milieu offensif|Crystal Palace|premier-league| 2025|30|30|17.80 |0|0|8|1
+34.html|alphonso-davies|22|1.85|gauche|Canada|Arrière gauche|FC Bayern München|bundesliga| 2025|70|80|14.00 |0|1|36|13
+496.html|gerson|25|1.84|gauche|Brésil|Milieu central|Clube Regatas Flamengo|carioca-taca-guanabara| 2027|18|22|67.19 |0|0|4|0
+183.html|gerard-moreno|30|1.80|gauche|Espagne|Avant-centre|Villarreal CF|laliga| 2027|35|40|21.50 |0|0|17|5
+479.html|nuno-tavares|23|1.83|gauche|Portugal|Arrière gauche|Olympique de Marseille|ligue-1| 2023|18|18|8.00 |0|0|9|1
+300.html|leon-bailey|25|1.78|gauche|Jamaïque|Ailier gauche|Aston Villa|premier-league| 2025|25|45|50.10 |0|0|18|3
+245.html|riyad-mahrez|32|1.79|gauche|Algérie|Ailier droit|Manchester City|premier-league| 2025|30|60|68.30 |0|0|76|26
+480.html|neco-williams|21|1.83|droit|Pays de Galles|Arrière droit|Nottingham Forest|premier-league| 2026|18|18|20.00 |0|0|26|2
+22.html|antony|23|1.72|gauche|Brésil|Ailier droit|Manchester United|premier-league| 2027|75|75|110.75 |0|0|15|2
+195.html|robert-sanchez|25|1.97|droit|Espagne|Gardien de but|Brighton &amp; Hove Albion|premier-league| 2025|32|32|0.00|0|0|2|0
+316.html|unai-simon|25|1.90|droit|Espagne|Gardien de but|Athletic Bilbao|laliga| 2025|25|30|0.00|0|0|31|0
+253.html|tanguy-ndombele|26|1.81|droit|France|Milieu central|SSC Napoli|serie-a| 2023|28|65|73.92 |0|0|7|0
+75.html|james-maddison|26|1.75|droit|Angleterre|Milieu offensif|Leicester City|premier-league| 2024|55|60|27.65 |0|0|1|0
+438.html|donny-van-de-beek|25|1.84|droit|Pays-Bas|Milieu central|Manchester United|premier-league| 2025|20|55|39.00 |0|0|19|3
+341.html|eljif-elmas|23|1.82|droit|Macédoine du Nord|Milieu central|SSC Napoli|serie-a| 2025|23|24|16.38 |0|0|46|9
+204.html|oleksandr-zinchenko|26|1.75|gauche|Ukraine|Arrière gauche|FC Arsenal|premier-league| 2026|32|32|37.25 |0|0|52|8
+126.html|martin-zubimendi|24|1.81|droit|Espagne|Milieu défensif|Real Sociedad|laliga| 2027|40|40|0.00|0|0|1|0
+433.html|nikola-vlasic|25|1.78|droit|Croatie|Milieu offensif|Torino FC|serie-a| 2023|20|30|63.80 |0|0|48|7
+91.html|sandro-tonali|22|1.81|droit|Italie|Milieu défensif|AC Milan|serie-a| 2027|50|50|19.50 |0|0|12|0
+171.html|ibrahim-sangare|25|1.91|droit|Côte d'Ivoire|Milieu défensif|PSV Eindhoven|eredivisie| 2027|35|35|7.00 |0|0|24|5
+29.html|bruno-fernandes|28|1.79|droit|Portugal|Milieu offensif|Manchester United|premier-league| 2026|75|90|82.24 |0|0|53|13
+464.html|marcel-sabitzer|28|1.77|droit|Autriche|Milieu central|Manchester United|premier-league| 2023|20|42|17.35 |0|0|68|12
+258.html|emiliano-buendia|26|1.72|droit|Argentine|Ailier droit|Aston Villa|premier-league| 2026|28|35|39.90 |0|0|1|0
+167.html|giacomo-raspadori|23|1.72|ambidextre|Italie|Deuxième attaquant|SSC Napoli|serie-a| 2023|35|35|5.00 |0|0|17|5
+188.html|jorginho|31|1.78|droit|Italie|Milieu défensif|FC Arsenal|premier-league| 2024|35|65|77.80 |0|1|46|5
+472.html|elye-wahi|20|1.84|droit|France|Avant-centre|Montpellier Hérault SC|ligue-1| 2025|18|18|0.00|0|0|3|1
+130.html|ferland-mendy|27|1.80|gauche|France|Arrière gauche|Real Madrid|laliga| 2025|40|50|53.00 |0|1|9|0
+68.html|milan-skriniar|28|1.88|droit|Slovaquie|Défenseur central|Inter Milan|serie-a| 2023|60|65|39.20 |0|0|58|3
+87.html|joao-felix|23|1.81|droit|Portugal|Deuxième attaquant|Chelsea FC|premier-league| 2023|50|100|138.20 |0|0|28|4
+3.html|jude-bellingham|19|1.86|droit|Angleterre|Milieu central|Borussia Dortmund|bundesliga| 2025|110|110|25.00 |0|0|22|1
+425.html|donyell-malen|24|1.78|droit|Pays-Bas|Ailier gauche|Borussia Dortmund|bundesliga| 2026|20|30|30.60 |0|0|19|4
+219.html|brenden-aaronson|22|1.77|droit|États-Unis|Milieu offensif|Leeds United|premier-league| 2027|30|30|45.54 |0|0|28|6
+13.html|rodrygo|22|1.74|droit|Brésil|Ailier droit|Real Madrid|laliga| 2025|80|80|45.00 |0|1|12|1
+262.html|konrad-laimer|25|1.80|droit|Autriche|Milieu central|RasenBallsport Leipzig|bundesliga| 2023|28|30|7.00 |0|0|24|2
+327.html|ruben-loftus-cheek|27|1.91|droit|Angleterre|Milieu central|Chelsea FC|premier-league| 2024|25|30|0.00|0|0|10|0
+409.html|andreas-skov-olsen|23|1.87|gauche|Danemark|Milieu droit|Club Brugge KV|jupiler-pro-league| 2026|20|20|12.40 |0|0|25|8
+44.html|marquinhos|28|1.83|droit|Brésil|Défenseur central|Paris Saint-Germain|ligue-1| 2024|70|75|38.60 |0|0|76|5
+235.html|paulo-dybala|29|1.77|gauche|Argentine|Deuxième attaquant|AS Roma|serie-a| 2025|30|110|52.90 |1|0|36|3
+370.html|rico-henry|25|1.70|gauche|Angleterre|Arrière gauche|FC Brentford|premier-league| 2026|22|22|1.80 |0|0|3|0
+52.html|bruno-guimaraes|25|1.82|droit|Brésil|Milieu défensif|Newcastle United|premier-league| 2026|60|60|62.10 |0|0|10|1
+223.html|joe-willock|23|1.86|droit|Angleterre|Milieu central|Newcastle United|premier-league| 2027|30|30|29.40 |0|0|4|0
+389.html|mathys-tel|17|1.83|droit|France|Avant-centre|FC Bayern München|bundesliga| 2025|20|20|20.00 |0|0|6|5
+366.html|che-adams|26|1.79|droit|Écosse|Avant-centre|FC Southampton|premier-league| 2024|22|22|18.90 |0|0|22|6
+448.html|joaquin-correa|28|1.88|droit|Argentine|Deuxième attaquant|Inter Milan|serie-a| 2025|20|38|74.05 |0|0|19|4
+274.html|danilo|21|1.77|gauche|Brésil|Milieu défensif|Nottingham Forest|premier-league| 2029|25|25|20.10 |0|0|0|0
+331.html|giovanni-di-lorenzo|29|1.83|droit|Italie|Arrière droit|SSC Napoli|serie-a| 2026|25|25|8.66 |0|0|25|3
+346.html|rayan-ait-nouri|21|1.80|gauche|Algérie|Arrière gauche|Wolverhampton Wanderers|premier-league| 2026|22|22|11.10 |0|0|5|0
+203.html|goncalo-guedes|26|1.79|droit|Portugal|Ailier gauche|SL Benfica|liga-portugal| 2023|32|40|102.60 |0|0|32|7
+72.html|richarlison|25|1.84|droit|Brésil|Avant-centre|Tottenham Hotspur|premier-league| 2027|55|65|111.98 |0|0|42|20
+311.html|marcus-edwards|24|1.68|gauche|Angleterre|Ailier droit|Sporting CP|liga-portugal| 2026|25|25|7.50 |0|0|8|2
+254.html|bryan-mbeumo|23|1.71|gauche|Cameroun|Ailier droit|FC Brentford|premier-league| 2026|28|28|6.50 |0|0|7|0
+25.html|lautaro-martinez|25|1.74|droit|Argentine|Avant-centre|Inter Milan|serie-a| 2026|75|80|25.00 |1|0|46|21
+487.html|calvin-bassey|23|1.85|gauche|Nigeria|Défenseur central|Ajax Amsterdam|eredivisie| 2027|18|18|23.00 |0|0|6|0
+192.html|conor-gallagher|23|1.82|droit|Angleterre|Milieu central|Chelsea FC|premier-league| 2025|32|32|0.00|0|0|4|0
+468.html|cristiano-ronaldo|38|1.87|droit|Portugal|Avant-centre|Al-Nassr FC|saudi-pro-league| 2025|20|120|247.00 |0|5|196|118
+307.html|davinson-sanchez|26|1.87|droit|Colombie|Défenseur central|Tottenham Hotspur|premier-league| 2024|25|60|47.50 |0|0|51|1
+242.html|harry-maguire|29|1.94|droit|Angleterre|Défenseur central|Manchester United|premier-league| 2025|30|70|103.85 |0|0|53|7
+491.html|josip-sutalo|22|1.88|droit|Croatie|Défenseur central|GNK Dinamo Zagreb|supersport-hnl| 2028|18|18|0.00|0|0|4|0
+33.html|reece-james|23|1.80|droit|Angleterre|Arrière droit|Chelsea FC|premier-league| 2028|70|70|0.00|0|1|15|0
+184.html|niklas-sule|27|1.95|droit|Allemagne|Défenseur central|Borussia Dortmund|bundesliga| 2026|35|60|20.00 |0|1|45|1
+350.html|pepe|26|1.75|droit|Brésil|Ailier gauche|FC Porto|liga-portugal| 2027|22|22|15.53 |0|0|6|3
+215.html|youssoufa-moukoko|18|1.79|gauche|Allemagne|Avant-centre|Borussia Dortmund|bundesliga| 2026|30|30|0.00|0|0|2|0
+64.html|martin-odegaard|24|1.78|gauche|Norvège|Milieu offensif|FC Arsenal|premier-league| 2025|60|60|41.80 |0|0|47|2
+429.html|mehdi-taremi|30|1.85|droit|Iran|Avant-centre|FC Porto|liga-portugal| 2024|20|20|5.22 |0|0|64|29
+281.html|anthony-elanga|20|1.78|droit|Suède|Ailier gauche|Manchester United|premier-league| 2026|25|25|0.00|0|0|9|1
+452.html|jonathan-tah|27|1.95|droit|Allemagne|Défenseur central|Bayer 04 Leverkusen|bundesliga| 2025|20|40|7.50 |0|0|16|0
+147.html|yeremy-pino|20|1.72|droit|Espagne|Ailier droit|Villarreal CF|laliga| 2027|38|40|0.00|0|0|7|1
+239.html|stanislav-lobotka|28|1.70|ambidextre|Slovaquie|Milieu défensif|SSC Napoli|serie-a| 2025|30|30|26.50 |0|0|43|3
+393.html|castello-lukeba|20|1.84|gauche|France|Défenseur central|Olympique Lyonnais|ligue-1| 2025|20|20|0.00|0|0|5|0
+405.html|renan-lodi|24|1.73|gauche|Brésil|Arrière gauche|Nottingham Forest|premier-league| 2023|20|50|26.75 |0|0|16|0
+110.html|fabian-ruiz|26|1.89|gauche|Espagne|Milieu central|Paris Saint-Germain|ligue-1| 2027|45|60|53.00 |0|0|15|1
+48.html|serge-gnabry|27|1.76|droit|Allemagne|Ailier droit|FC Bayern München|bundesliga| 2026|65|90|14.10 |0|1|39|21
+385.html|leander-dendoncker|27|1.88|droit|Belgique|Milieu défensif|Aston Villa|premier-league||22|32|30.30 |0|0|31|1
+413.html|francisco-trincao|23|1.84|gauche|Portugal|Ailier droit|Sporting CP|liga-portugal| 2023|20|30|47.00 |0|0|7|0
+106.html|vitinha|23|1.72|droit|Portugal|Milieu central|Paris Saint-Germain|ligue-1| 2027|45|45|41.50 |0|0|8|0
+278.html|romeo-lavia|19|1.81|droit|Belgique|Milieu défensif|FC Southampton|premier-league| 2027|25|25|12.30 |0|0|1|0
+297.html|maxence-caqueret|23|1.74|droit|France|Milieu central|Olympique Lyonnais|ligue-1| 2027|25|25|0.00|0|0|19|2
+444.html|ricardo-horta|28|1.73|droit|Portugal|Ailier gauche|SC Braga|liga-portugal| 2026|20|20|0.500 |0|0|9|2
+151.html|frank-anguissa|27|1.84|droit|Cameroun|Milieu central|SSC Napoli|serie-a| 2025|38|38|41.45 |0|0|46|5
+445.html|wilmar-barrios|29|1.78|droit|Colombie|Milieu défensif|Zenit St. Pétersbourg|premier-liga| 2026|20|20|17.60 |0|0|53|1
+150.html|sven-botman|23|1.95|gauche|Pays-Bas|Défenseur central|Newcastle United|premier-league| 2027|38|38|45.00 |0|0|0|0
+279.html|manu-kone|21|1.85|droit|France|Milieu central|Borussia Mönchengladbach|bundesliga| 2025|25|25|9.00 |0|0|6|0
+296.html|james-justin|25|1.83|droit|Angleterre|Arrière droit|Leicester City|premier-league| 2026|25|25|6.70 |0|0|1|0
+412.html|nikola-milenkovi%C4%87|25|1.95|droit|Serbie|Défenseur central|ACF Fiorentina|serie-a| 2027|20|35|5.50 |0|0|41|3
+107.html|lucas-paqueta|25|1.80|gauche|Brésil|Milieu offensif|West Ham United|premier-league| 2027|45|45|104.79 |0|0|39|8
+384.html|james-tarkowski|30|1.85|droit|Angleterre|Défenseur central|FC Everton|premier-league| 2026|22|28|4.00 |0|0|2|0
+404.html|david-carmo|23|1.96|gauche|Portugal|Défenseur central|FC Porto|liga-portugal| 2027|20|20|20.00 |0|0|0|0
+111.html|ben-white|25|1.86|droit|Angleterre|Arrière droit|FC Arsenal|premier-league| 2026|45|45|58.50 |0|0|4|0
+49.html|leon-goretzka|28|1.89|droit|Allemagne|Milieu central|FC Bayern München|bundesliga| 2026|65|70|3.25 |0|1|48|14
+238.html|john-mcginn|28|1.78|gauche|Écosse|Milieu central|Aston Villa|premier-league| 2025|30|32|4.26 |0|0|52|15
+392.html|joao-pedro|21|1.82|droit|Brésil|Avant-centre|FC Watford|championship| 2028|20|20|11.50 |0|0||
+453.html|alex-moreno|29|1.79|gauche|Espagne|Arrière gauche|Aston Villa|premier-league| 2026|20|20|23.20 |0|0||
+146.html|moises-caicedo|21|1.78|droit|Équateur|Milieu central|Brighton &amp; Hove Albion|premier-league| 2025|38|38|5.00 |0|0|28|3
+280.html|arnaud-kalimuendo|21|1.75|droit|France|Avant-centre|Stade Rennais FC|ligue-1| 2027|25|25|20.00 |0|0|15|4
+65.html|ousmane-dembele|25|1.78|ambidextre|France|Ailier droit|FC Barcelone|laliga| 2024|60|120|175.00 |1|0|35|4
+428.html|brahim-diaz|23|1.71|ambidextre|Espagne|Milieu offensif|AC Milan|serie-a| 2023|20|25|20.55 |0|0|1|1
+351.html|luis-sinisterra|23|1.72|droit|Colombie|Ailier gauche|Leeds United|premier-league| 2027|22|25|27.00 |0|0|7|3
+214.html|emerson-royal|24|1.83|droit|Brésil|Arrière droit|Tottenham Hotspur|premier-league| 2026|30|30|58.18 |0|0|7|0
+490.html|tommaso-pobega|23|1.88|ambidextre|Italie|Milieu central|AC Milan|serie-a| 2027|18|18|0.00|0|0|3|0
+32.html|darwin-nunez|23|1.87|droit|Uruguay|Avant-centre|FC Liverpool|premier-league| 2028|70|70|129.25 |0|0|16|3
+185.html|marcelo-brozovic|30|1.81|ambidextre|Croatie|Milieu défensif|Inter Milan|serie-a| 2026|35|60|10.70 |0|0|83|7
+306.html|boubakary-soumare|23|1.88|droit|France|Milieu défensif|Leicester City|premier-league| 2026|25|28|20.00 |0|0|14|0
+243.html|nathan-ake|28|1.80|gauche|Pays-Bas|Défenseur central|Manchester City|premier-league| 2025|30|40|68.90 |0|0|34|3
+24.html|josko-gvardiol|21|1.85|gauche|Croatie|Défenseur central|RasenBallsport Leipzig|bundesliga| 2027|75|75|18.80 |0|0|19|2
+486.html|eric-garcia|22|1.82|droit|Espagne|Défenseur central|FC Barcelone|laliga| 2026|18|20|1.70 |0|0|19|0
+193.html|pedro-neto|22|1.72|gauche|Portugal|Ailier droit|Wolverhampton Wanderers|premier-league| 2027|32|38|36.40 |0|0|3|1
+469.html|giorgian-de-arrascaeta|28|1.74|droit|Uruguay|Milieu offensif|Clube Regatas Flamengo|carioca-taca-guanabara| 2026|19|19|19.00 |0|0|42|10
+310.html|takehiro-tomiyasu|24|1.88|droit|Japon|Arrière droit|FC Arsenal|premier-league| 2025|25|25|26.40 |0|0|33|1
+255.html|guido-rodriguez|28|1.85|droit|Argentine|Milieu défensif|Real Betis Balompié|laliga| 2024|28|28|12.03 |1|0|27|1
+73.html|diogo-jota|26|1.78|droit|Portugal|Ailier gauche|FC Liverpool|premier-league| 2027|55|60|65.70 |0|0|29|10
+347.html|michael-olise|21|1.84|gauche|France|Ailier droit|Crystal Palace|premier-league| 2026|22|22|9.30 |0|0|2|0
+202.html|joachim-andersen|26|1.92|droit|Danemark|Défenseur central|Crystal Palace|premier-league| 2026|32|32|44.92 |0|0|22|0
+275.html|hugo-ekitike|20|1.89|droit|France|Avant-centre|Paris Saint-Germain|ligue-1| 2023|25|28|0.00|0|0|0|0
+330.html|timo-werner|26|1.80|droit|Allemagne|Avant-centre|RasenBallsport Leipzig|bundesliga| 2026|25|80|96.00 |0|1|55|24
+449.html|philipp-lienhart|26|1.89|droit|Autriche|Défenseur central|SC Fribourg|bundesliga| 2024|20|20|3.30 |0|2|11|0
+222.html|daichi-kamada|26|1.84|droit|Japon|Milieu offensif|Eintracht Frankfurt|bundesliga| 2023|30|30|1.60 |0|0|26|6
+388.html|endrick|16|1.73|gauche|Brésil|Avant-centre|Sociedade Esportiva Palmeiras|paulistao-a1-primeira-fase| 2025|20|20|35.00 |0|0|0|0
+367.html|sean-longstaff|25|1.81|droit|Angleterre|Milieu central|Newcastle United|premier-league| 2025|22|22|0.00|0|0||
+53.html|khvicha-kvaratskhelia|22|1.83|ambidextre|Géorgie|Ailier gauche|SSC Napoli|serie-a| 2027|60|60|20.38 |0|0|19|10
+234.html|ngolo-kante|31|1.71|droit|France|Milieu défensif|Chelsea FC|premier-league| 2023|30|100|44.80 |1|1|53|2
+371.html|tyrell-malacia|23|1.69|gauche|Pays-Bas|Arrière gauche|Manchester United|premier-league| 2026|22|22|15.00 |0|0|6|0
+408.html|maxence-lacroix|22|1.90|droit|France|Défenseur central|VfL Wolfsburg|bundesliga| 2025|20|28|5.00 |0|0|2|0
+45.html|raheem-sterling|28|1.70|droit|Angleterre|Ailier gauche|Chelsea FC|premier-league| 2027|70|160|120.60 |0|0|82|20
+263.html|julian-brandt|26|1.85|droit|Allemagne|Milieu offensif|Borussia Dortmund|bundesliga| 2024|28|50|25.50 |0|0|39|3
+326.html|mario-pasalic|28|1.88|droit|Croatie|Milieu offensif|Atalanta BC|serie-a| 2025|25|28|20.50 |0|0|50|7
+12.html|rafael-leao|23|1.88|droit|Portugal|Ailier gauche|AC Milan|serie-a| 2024|85|85|29.50 |0|0|16|2
+218.html|pedro-goncalves|24|1.73|droit|Portugal|Ailier gauche|Sporting CP|liga-portugal| 2026|30|38|7.80 |0|0|2|0
+131.html|presnel-kimpembe|27|1.83|gauche|France|Défenseur central|Paris Saint-Germain|ligue-1| 2024|40|40|0.00|1|0|28|0
+69.html|sadio-mane|30|1.74|droit|Sénégal|Ailier gauche|FC Bayern München|bundesliga| 2025|60|150|100.20 |0|1|92|33
+2.html|vinicius-junior|22|1.76|droit|Brésil|Ailier gauche|Real Madrid|laliga| 2024|120|120|45.00 |0|1|20|2
+86.html|ansu-fati|20|1.78|droit|Espagne|Ailier gauche|FC Barcelone|laliga| 2027|50|80|0.00|0|0|7|2
+424.html|denis-zakaria|26|1.90|droit|Suisse|Milieu défensif|Chelsea FC|premier-league| 2023|20|45|25.50 |0|0|45|3
+166.html|martin-terrier|25|1.84|droit|France|Ailier gauche|Stade Rennais FC|ligue-1| 2026|35|35|23.00 |0|0|13|7
+189.html|kalidou-koulibaly|31|1.86|droit|Sénégal|Défenseur central|Chelsea FC|premier-league| 2026|35|75|47.05 |0|0|68|1
+473.html|rayan-cherki|19|1.76|ambidextre|France|Milieu offensif|Olympique Lyonnais|ligue-1| 2024|18|27|0.00|0|0|7|4
+259.html|hirving-lozano|27|1.75|droit|Mexique|Ailier droit|SSC Napoli|serie-a| 2024|28|45|57.50 |0|0|63|16
+170.html|marc-guehi|22|1.82|droit|Angleterre|Défenseur central|Crystal Palace|premier-league| 2026|35|35|23.34 |0|0|3|0
+28.html|ruben-dias|25|1.87|droit|Portugal|Défenseur central|Manchester City|premier-league| 2027|75|75|71.60 |0|0|44|2
+465.html|pablo-sarabia|30|1.74|gauche|Espagne|Ailier droit|Wolverhampton Wanderers|premier-league| 2025|20|40|29.00 |0|0|26|9
+127.html|rodrigo-bentancur|25|1.87|droit|Uruguay|Milieu central|Tottenham Hotspur|premier-league| 2026|40|50|40.70 |0|0|54|1
+432.html|taiwo-awoniyi|25|1.83|droit|Nigeria|Avant-centre|Nottingham Forest|premier-league| 2027|20|20|30.65 |0|0|4|1
+90.html|pau-torres|26|1.91|gauche|Espagne|Défenseur central|Villarreal CF|laliga| 2024|50|50|0.00|0|0|23|1
+299.html|callum-hudson-odoi|22|1.77|droit|Angleterre|Ailier gauche|Bayer 04 Leverkusen|bundesliga| 2023|25|35|0.00|0|1|3|0
+333.html|antoine-griezmann|31|1.76|gauche|France|Deuxième attaquant|Atlético de Madrid|laliga| 2023|25|150|180.00 |1|0|117|42
+276.html|nico-williams|20|1.81|droit|Espagne|Ailier droit|Athletic Bilbao|laliga| 2024|25|25|0.00|0|0|7|1
+364.html|lovro-majer|25|1.78|gauche|Croatie|Milieu offensif|Stade Rennais FC|ligue-1| 2027|22|22|14.50 |0|0|18|4
+221.html|teun-koopmeiners|24|1.83|gauche|Pays-Bas|Milieu défensif|Atalanta BC|serie-a| 2025|30|30|14.00 |0|0|15|1
+50.html|gabriel-martinelli|21|1.78|droit|Brésil|Ailier gauche|FC Arsenal|premier-league| 2027|60|60|7.10 |0|0|6|0
+108.html|jurrien-timber|21|1.82|droit|Pays-Bas|Défenseur central|Ajax Amsterdam|eredivisie| 2025|45|45|0.00|0|0|14|0
+372.html|caglar-soyuncu|26|1.87|droit|Turquie|Défenseur central|Leicester City|premier-league| 2023|22|45|29.03 |0|0|51|2
+237.html|andreas-christensen|26|1.87|droit|Danemark|Défenseur central|FC Barcelone|laliga| 2026|30|40|0.00|0|1|62|3
+46.html|heung-min-son|30|1.84|ambidextre|Corée du Sud|Ailier gauche|Tottenham Hotspur|premier-league| 2025|70|90|42.50 |0|0|108|35
+325.html|alex-remiro|27|1.91|droit|Espagne|Gardien de but|Real Sociedad|laliga| 2027|25|25|0.00|0|0|0|0
+260.html|timothy-castagne|27|1.85|droit|Belgique|Arrière droit|Leicester City|premier-league| 2025|28|28|27.40 |0|0|29|2
+11.html|harry-kane|29|1.88|droit|Angleterre|Avant-centre|Tottenham Hotspur|premier-league| 2024|90|150|0.00|0|0|80|53
+149.html|emile-smith-rowe|22|1.82|droit|Angleterre|Milieu offensif|FC Arsenal|premier-league| 2026|38|40|1.00 |0|0|3|1
+427.html|andrea-pinamonti|23|1.85|droit|Italie|Avant-centre|US Sassuolo|serie-a| 2027|20|20|61.00 |0|0|1|0
+1.html|erling-haaland|22|1.95|gauche|Norvège|Avant-centre|Manchester City|premier-league| 2027|170|170|88.10 |0|0|23|21
+85.html|lisandro-martinez|25|1.75|gauche|Argentine|Défenseur central|Manchester United|premier-league| 2027|50|50|65.10 |1|0|15|0
+132.html|wilfred-ndidi|26|1.83|droit|Nigeria|Milieu défensif|Leicester City|premier-league| 2024|40|60|17.78 |0|0|47|0
+309.html|merih-demiral|24|1.90|droit|Turquie|Défenseur central|Atalanta BC|serie-a| 2026|25|30|52.95 |0|0|35|2
+470.html|vanderson|21|1.73|droit|Brésil|Arrière droit|AS Monaco|ligue-1| 2027|18|18|11.00 |0|0||
+165.html|douglas-luiz|24|1.77|droit|Brésil|Milieu central|Aston Villa|premier-league| 2026|35|38|28.80 |0|0|9|0
+466.html|sergio-canales|32|1.78|gauche|Espagne|Milieu offensif|Real Betis Balompié|laliga| 2026|20|25|19.00 |0|0|10|1
+489.html|manor-solomon|23|1.70|droit|Israël|Ailier gauche|FC Fulham|premier-league| 2023|18|20|6.00 |0|0|31|6
+173.html|diogo-costa|23|1.86|droit|Portugal|Gardien de but|FC Porto|liga-portugal| 2027|35|35|0.00|0|0|11|0
+348.html|destiny-udogie|20|1.88|gauche|Italie|Arrière gauche|Udinese Calcio|serie-a| 2023|22|22|22.00 |0|0|6|0
+93.html|alexander-isak|23|1.92|droit|Suède|Avant-centre|Newcastle United|premier-league| 2028|50|50|93.60 |0|0|37|9
+431.html|david-garcia|29|1.86|ambidextre|Espagne|Défenseur central|CA Osasuna|laliga| 2026|20|20|0.00|0|0||
+124.html|benoit-badiashile|21|1.94|gauche|France|Défenseur central|Chelsea FC|premier-league| 2030|40|40|38.00 |0|0|2|0
+153.html|christian-pulisic|24|1.77|droit|États-Unis|Ailier droit|Chelsea FC|premier-league| 2024|38|60|64.00 |0|1|56|22
+446.html|daniel-podence|27|1.65|droit|Portugal|Ailier gauche|Wolverhampton Wanderers|premier-league| 2024|20|25|26.60 |0|0|1|0
+295.html|jack-harrison|26|1.75|gauche|Angleterre|Ailier gauche|Leeds United|premier-league| 2024|25|28|16.80 |0|0|2|0
+104.html|matheus-nunes|24|1.83|droit|Portugal|Milieu central|Wolverhampton Wanderers|premier-league| 2027|45|45|45.95 |0|0|11|1
+411.html|caio-henrique|25|1.78|gauche|Brésil|Arrière gauche|AS Monaco|ligue-1| 2027|20|20|8.80 |0|0|11|0
+368.html|trevoh-chalobah|23|1.92|droit|Angleterre|Défenseur central|Chelsea FC|premier-league| 2028|22|22|0.00|0|0|3|0
+387.html|weston-mckennie|24|1.85|droit|États-Unis|Milieu central|Leeds United|premier-league| 2023|21|25|26.25 |0|0|41|9
+112.html|tammy-abraham|25|1.94|droit|Angleterre|Avant-centre|AS Roma|serie-a| 2026|45|50|40.00 |0|1|11|3
+407.html|brennan-johnson|21|1.79|droit|Pays de Galles|Deuxième attaquant|Nottingham Forest|premier-league| 2026|20|20|0.00|0|0|18|2
+391.html|benjamin-sesko|19|1.95|droit|Slovénie|Avant-centre|Red Bull Salzbourg|bundesliga| 2026|20|20|26.50 |0|0|17|5
+145.html|mateo-kovacic|28|1.77|droit|Croatie|Milieu central|Chelsea FC|premier-league| 2024|40|45|94.00 |0|4|91|3
+450.html|hakim-ziyech|29|1.81|gauche|Maroc|Ailier droit|Chelsea FC|premier-league| 2025|20|50|54.50 |0|1|50|19
+283.html|pedro-porro|23|1.73|droit|Espagne|Arrière droit|Tottenham Hotspur|premier-league| 2023|25|25|25.60 |0|0|1|0
+329.html|adrien-rabiot|27|1.88|gauche|France|Milieu central|Juventus Turin|serie-a| 2023|25|50|0.00|0|0|35|3
+89.html|raphinha|26|1.76|gauche|Brésil|Ailier droit|FC Barcelone|laliga| 2027|50|50|104.70 |0|0|16|5
+66.html|sergej-milinkovi%C4%87-savi%C4%87|27|1.91|droit|Serbie|Milieu central|Lazio Rome|serie-a| 2024|60|90|13.00 |0|0|39|7
+217.html|aaron-ramsdale|24|1.90|droit|Angleterre|Gardien de but|FC Arsenal|premier-league| 2025|30|30|49.44 |0|0|3|0
+352.html|wendel|25|1.80|droit|Brésil|Milieu central|Zenit St. Pétersbourg|premier-liga| 2027|22|22|27.80 |0|0|12|1
+186.html|hakan-calhanoglu|29|1.78|droit|Turquie|Milieu central|Inter Milan|serie-a| 2024|35|35|41.05 |0|0|74|17
+31.html|florian-wirtz|19|1.76|droit|Allemagne|Milieu offensif|Bayer 04 Leverkusen|bundesliga| 2027|70|70|0.200 |0|0|4|0
+493.html|arthur-melo|26|1.72|droit|Brésil|Milieu central|FC Liverpool|premier-league| 2023|18|70|111.50 |0|0|22|1
+169.html|ferran-torres|22|1.84|droit|Espagne|Ailier gauche|FC Barcelone|laliga| 2027|35|50|88.50 |0|0|35|15
+240.html|john-stones|28|1.88|droit|Angleterre|Défenseur central|Manchester City|premier-league| 2026|30|60|59.10 |0|0|64|3
+305.html|noah-okafor|22|1.85|droit|Suisse|Avant-centre|Red Bull Salzbourg|bundesliga| 2024|25|25|11.20 |0|0|12|2
+190.html|karim-benzema|35|1.85|droit|France|Avant-centre|Real Madrid|laliga| 2023|35|60|35.00 |0|5|97|37
+485.html|armel-bella-kotchap|21|1.90|droit|Allemagne|Défenseur central|FC Southampton|premier-league| 2026|18|18|11.00 |0|0|2|0
+27.html|mason-mount|24|1.81|droit|Angleterre|Milieu offensif|Chelsea FC|premier-league| 2024|75|75|0.00|0|1|36|5
+256.html|noussair-mazraoui|25|1.83|droit|Maroc|Arrière droit|FC Bayern München|bundesliga| 2026|28|28|0.00|0|0|20|2
+313.html|sofyan-amrabat|26|1.85|droit|Maroc|Milieu défensif|ACF Fiorentina|serie-a| 2024|25|25|29.65 |0|0|46|0
+70.html|thibaut-courtois|30|2.00|gauche|Belgique|Gardien de but|Real Madrid|laliga| 2026|60|75|45.15 |0|1|100|0
+128.html|ismael-bennacer|25|1.75|gauche|Algérie|Milieu défensif|AC Milan|serie-a| 2027|40|40|18.50 |0|0|40|2
+201.html|marcus-thuram|25|1.92|droit|France|Avant-centre|Borussia Mönchengladbach|bundesliga| 2023|32|40|9.60 |0|0|9|0
+344.html|ciro-immobile|33|1.85|droit|Italie|Avant-centre|Lazio Rome|serie-a| 2026|23|50|63.13 |0|0|55|15
+200.html|ollie-watkins|27|1.80|droit|Angleterre|Avant-centre|Aston Villa|premier-league| 2025|32|35|41.22 |0|0|7|2
+345.html|evanilson|23|1.83|ambidextre|Brésil|Avant-centre|FC Porto|liga-portugal| 2027|22|22|8.80 |0|0|2|0
+71.html|enzo-fernandez|22|1.78|droit|Argentine|Milieu central|Chelsea FC|premier-league| 2031|55|55|165.25 |1|0|10|1
+129.html|dani-olmo|24|1.79|droit|Espagne|Milieu offensif|RasenBallsport Leipzig|bundesliga| 2024|40|50|29.00 |0|0|29|5
+257.html|denzel-dumfries|26|1.88|droit|Pays-Bas|Milieu droit|Inter Milan|serie-a| 2025|28|28|20.50 |0|0|42|6
+312.html|marco-asensio|27|1.82|gauche|Espagne|Ailier droit|Real Madrid|laliga| 2023|25|90|3.90 |0|3|35|2
+191.html|nico-schlotterbeck|23|1.91|gauche|Allemagne|Défenseur central|Borussia Dortmund|bundesliga| 2027|33|33|20.09 |0|0|8|0
+484.html|max-aarons|23|1.71|droit|Angleterre|Arrière droit|Norwich City|championship| 2024|18|22|0.00|0|0|18|0
+26.html|gabriel-jesus|25|1.75|droit|Brésil|Avant-centre|FC Arsenal|premier-league| 2027|75|80|84.20 |0|0|59|19
+241.html|seko-fofana|27|1.85|droit|Côte d'Ivoire|Milieu central|RC Lens|ligue-1| 2025|30|30|12.00 |0|0|8|3
+304.html|pablo-fornals|27|1.78|droit|Espagne|Milieu offensif|West Ham United|premier-league| 2024|25|30|40.00 |0|0|6|1
+187.html|paul-pogba|29|1.91|ambidextre|France|Milieu central|Juventus Turin|serie-a| 2026|35|100|105.00 |1|0|91|11
+30.html|neymar|31|1.75|droit|Brésil|Ailier gauche|Paris Saint-Germain|ligue-1| 2025|75|180|310.00 |0|1|124|77
+492.html|sasa-kalajdzic|25|2.00|droit|Autriche|Avant-centre|Wolverhampton Wanderers|premier-league| 2027|18|25|24.00 |0|0|15|4
+168.html|edson-alvarez|25|1.87|droit|Mexique|Milieu défensif|Ajax Amsterdam|eredivisie| 2025|35|35|15.00 |0|0|61|3
+216.html|charles-de-ketelaere|21|1.92|gauche|Belgique|Milieu offensif|AC Milan|serie-a| 2027|30|30|32.00 |0|0|11|1
+353.html|david-neres|25|1.76|gauche|Brésil|Ailier droit|SL Benfica|liga-portugal| 2027|22|45|44.70 |0|0|7|1
+88.html|dejan-kulusevski|22|1.86|gauche|Suède|Ailier droit|Tottenham Hotspur|premier-league| 2023|50|50|49.50 |0|0|27|2
+67.html|kingsley-coman|26|1.81|droit|France|Ailier droit|FC Bayern München|bundesliga| 2027|60|65|28.00 |0|1|46|5
+282.html|youssouf-fofana|24|1.85|droit|France|Milieu central|AS Monaco|ligue-1| 2024|25|25|15.00 |0|0|8|0
+328.html|federico-dimarco|25|1.75|gauche|Italie|Arrière gauche|Inter Milan|serie-a| 2026|25|25|8.91 |0|0|8|1
+144.html|antonio-rudiger|29|1.90|droit|Allemagne|Défenseur central|Real Madrid|laliga| 2026|40|50|48.00 |0|1|57|2
+451.html|bryan-cristante|27|1.86|droit|Italie|Milieu défensif|AS Roma|serie-a| 2024|20|25|41.70 |0|0|29|2
+390.html|odilon-kossounou|22|1.91|droit|Côte d'Ivoire|Défenseur central|Bayer 04 Leverkusen|bundesliga| 2026|20|23|26.85 |0|0|16|0
+113.html|lorenzo-pellegrini|26|1.86|ambidextre|Italie|Milieu offensif|AS Roma|serie-a| 2026|45|45|11.25 |0|0|23|5
+406.html|kiernan-dewsbury-hall|24|1.78|gauche|Angleterre|Milieu central|Leicester City|premier-league| 2027|20|20|0.00|0|0||
+369.html|nicolas-pepe|27|1.83|gauche|Côte d'Ivoire|Ailier droit|OGC Nice|ligue-1| 2023|22|75|98.00 |0|0|35|9
+386.html|lucas-digne|29|1.78|gauche|France|Arrière gauche|Aston Villa|premier-league| 2026|22|35|84.20 |0|0|46|0
+105.html|jonathan-david|23|1.75|ambidextre|Canada|Avant-centre|LOSC Lille|ligue-1| 2025|45|50|27.00 |0|0|37|22
+410.html|pedro|25|1.85|droit|Brésil|Avant-centre|Clube Regatas Flamengo|carioca-taca-guanabara| 2027|20|20|26.00 |0|0|4|1
+294.html|morgan-gibbs-white|23|1.78|droit|Angleterre|Milieu offensif|Nottingham Forest|premier-league| 2027|25|25|29.50 |0|0|10|1
+152.html|ben-chilwell|26|1.80|gauche|Angleterre|Arrière gauche|Chelsea FC|premier-league| 2025|38|50|50.20 |0|1|17|1
+447.html|breel-embolo|26|1.87|droit|Suisse|Avant-centre|AS Monaco|ligue-1| 2026|20|22|50.00 |0|0|63|13
+92.html|moussa-diaby|23|1.70|gauche|France|Ailier gauche|Bayer 04 Leverkusen|bundesliga| 2025|50|60|15.00 |0|0|8|0
+430.html|naby-keita|28|1.72|droit|Guinée|Milieu central|FC Liverpool|premier-league| 2023|20|65|91.25 |0|1|50|11
+125.html|gabriel-magalhaes|25|1.90|gauche|Brésil|Défenseur central|FC Arsenal|premier-league| 2027|40|40|29.00 |0|0|0|0
+349.html|illan-meslier|22|1.97|gauche|France|Gardien de but|Leeds United|premier-league| 2026|22|22|6.50 |0|0|9|0
+467.html|toni-kroos|33|1.83|droit|Allemagne|Milieu central|Real Madrid|laliga| 2023|20|80|27.30 |1|5|106|17
+488.html|claudinho|26|1.70|droit|Brésil|Milieu offensif|Zenit St. Pétersbourg|premier-liga| 2027|18|18|12.50 |0|0|0|0
+172.html|carlos-soler|26|1.80|droit|Espagne|Milieu central|Paris Saint-Germain|ligue-1| 2027|35|50|18.00 |0|0|14|4
+471.html|kamaldeen-sulemana|21|1.75|droit|Ghana|Ailier gauche|FC Southampton|premier-league| 2027|18|20|42.00 |0|0|15|0
+164.html|dominik-szoboszlai|22|1.87|droit|Hongrie|Milieu offensif|RasenBallsport Leipzig|bundesliga| 2026|35|35|22.50 |0|0|28|6
+308.html|kyle-walker-peters|25|1.73|droit|Angleterre|Arrière droit|FC Southampton|premier-league| 2025|25|25|13.30 |0|0|2|0
+426.html|christoph-baumgartner|23|1.80|droit|Autriche|Milieu offensif|TSG 1899 Hoffenheim|bundesliga| 2025|20|22|0.00|0|0|25|7
+84.html|william-saliba|21|1.92|droit|France|Défenseur central|FC Arsenal|premier-league| 2024|50|50|30.00 |0|0|8|0
+0.html|kylian-mbappe|24|1.78|droit|France|Avant-centre|Paris Saint-Germain|ligue-1| 2025|180|200|180.00 |1|0|66|36
+133.html|allan-saint-maximin|25|1.73|droit|France|Ailier gauche|Newcastle United|premier-league| 2026|40|40|33.00 |0|0|7|0
+10.html|aurelien-tchouameni|23|1.87|droit|France|Milieu défensif|Real Madrid|laliga| 2028|90|90|98.00 |0|0|21|2
+148.html|amine-gouiri|23|1.81|droit|France|Avant-centre|Stade Rennais FC|ligue-1| 2027|38|50|35.00 |0|0|24|11
+324.html|reinildo-mandava|29|1.80|gauche|Mozambique|Arrière gauche|Atlético de Madrid|laliga| 2025|25|25|6.00 |0|0|35|2
+261.html|joao-palhinha|27|1.90|droit|Portugal|Milieu défensif|FC Fulham|premier-league| 2027|28|28|20.04 |0|0|18|2
+47.html|wesley-fofana|22|1.86|droit|France|Défenseur central|Chelsea FC|premier-league| 2029|65|65|115.40 |0|0|5|0
+373.html|said-benrahma|27|1.72|droit|Algérie|Ailier gauche|West Ham United|premier-league| 2026|22|25|29.20 |0|0|17|1
+236.html|thomas-lemar|27|1.71|gauche|France|Milieu offensif|Atlético de Madrid|laliga| 2027|30|70|76.00 |1|0|27|4
+51.html|nuno-mendes|20|1.83|gauche|Portugal|Arrière gauche|Paris Saint-Germain|ligue-1| 2026|60|60|45.00 |0|0|18|0
+109.html|kalvin-phillips|27|1.79|droit|Angleterre|Milieu défensif|Manchester City|premier-league| 2028|45|50|49.00 |0|0|25|0
+365.html|giovani-lo-celso|26|1.77|gauche|Argentine|Milieu central|Villarreal CF|laliga| 2023|22|50|83.00 |0|0|41|2
+220.html|nicolo-zaniolo|23|1.90|gauche|Italie|Milieu offensif|Galatasaray|super-lig| 2027|30|55|23.55 |0|0|11|2
+298.html|boubacar-kamara|23|1.84|droit|France|Milieu défensif|Aston Villa|premier-league| 2027|25|37|0.00|0|0|3|0
+332.html|alvaro-morata|30|1.89|droit|Espagne|Avant-centre|Atlético de Madrid|laliga| 2024|25|65|189.00 |0|2|61|30
+277.html|piero-hincapie|21|1.83|gauche|Équateur|Défenseur central|Bayer 04 Leverkusen|bundesliga| 2027|25|25|7.70 |0|0|24|1
+155.html|thomas-partey|29|1.85|droit|Ghana|Milieu défensif|FC Arsenal|premier-league| 2025|38|50|50.00 |0|0|43|13
+440.html|sergio-reguilon|26|1.78|gauche|Espagne|Arrière gauche|Atlético de Madrid|laliga| 2023|20|28|30.00 |0|0|6|0
+339.html|goncalo-inacio|21|1.85|gauche|Portugal|Défenseur central|Sporting CP|liga-portugal| 2026|23|23|0.00|0|0|0|0
+293.html|edouard-mendy|30|1.94|droit|Sénégal|Gardien de but|Chelsea FC|premier-league| 2025|25|32|31.60 |0|1|29|0
+102.html|lionel-messi|35|1.70|gauche|Argentine|Ailier droit|Paris Saint-Germain|ligue-1| 2023|50|180|0.00|1|4|172|98
+417.html|samuel-chukwueze|23|1.72|gauche|Nigeria|Ailier droit|Villarreal CF|laliga| 2024|20|30|0.500 |0|0|24|4
+381.html|xaver-schlager|25|1.74|gauche|Autriche|Milieu central|RasenBallsport Leipzig|bundesliga| 2026|22|27|24.00 |0|0|33|3
+114.html|tomas-soucek|27|1.92|droit|Tchéquie|Milieu défensif|West Ham United|premier-league| 2024|45|45|20.70 |0|0|56|9
+401.html|max-kilman|25|1.94|gauche|Angleterre|Défenseur central|Wolverhampton Wanderers|premier-league| 2026|20|20|0.00|0|0||
+378.html|dean-henderson|25|1.88|droit|Angleterre|Gardien de but|Nottingham Forest|premier-league|2023|22|22|0.00|0|0|1|0
+397.html|giorgio-scalvini|19|1.94|droit|Italie|Défenseur central|Atalanta BC|serie-a| 2027|20|20|0.00|0|0|3|0
+143.html|jan-oblak|30|1.88|droit|Slovénie|Gardien de but|Atlético de Madrid|laliga| 2028|40|100|20.00 |0|0|54|0
+456.html|nico-elvedi|26|1.89|droit|Suisse|Défenseur central|Borussia Mönchengladbach|bundesliga| 2024|20|35|4.00 |0|0|43|1
+285.html|yunus-musah|20|1.78|droit|États-Unis|Milieu central|FC Valencia|laliga| 2026|25|25|0.00|0|0|23|0
+60.html|mikel-oyarzabal|25|1.81|gauche|Espagne|Ailier gauche|Real Sociedad|laliga| 2028|60|70|0.00|0|0|21|6
+138.html|ruben-neves|25|1.80|droit|Portugal|Milieu défensif|Wolverhampton Wanderers|premier-league| 2024|40|50|17.90 |0|0|37|0
+211.html|fabio-vieira|22|1.70|gauche|Portugal|Milieu offensif|FC Arsenal|premier-league| 2027|30|30|35.00 |0|0|22|13
+354.html|nathan-collins|21|1.93|droit|Irlande|Défenseur central|Wolverhampton Wanderers|premier-league| 2027|22|22|38.30 |0|0|10|1
+180.html|mike-maignan|27|1.91|droit|France|Gardien de but|AC Milan|serie-a| 2026|35|35|16.30 |0|0|5|0
+495.html|ben-godfrey|25|1.84|droit|Angleterre|Défenseur central|FC Everton|premier-league| 2025|18|25|30.45 |0|0|2|0
+37.html|matthijs-de-ligt|23|1.89|droit|Pays-Bas|Défenseur central|FC Bayern München|bundesliga| 2027|70|75|152.50 |0|0|40|2
+246.html|leandro-trossard|28|1.72|droit|Belgique|Ailier gauche|FC Arsenal|premier-league| 2026|30|30|39.56 |0|0|24|5
+303.html|nayef-aguerd|26|1.88|gauche|Maroc|Défenseur central|West Ham United|premier-league| 2027|25|25|40.62 |0|0|30|1
+196.html|harvey-barnes|25|1.82|droit|Angleterre|Ailier gauche|Leicester City|premier-league| 2025|32|35|0.00|0|0|1|0
+21.html|kevin-de-bruyne|31|1.81|droit|Belgique|Milieu offensif|Manchester City|premier-league| 2025|80|150|106.45 |0|0|97|25
+483.html|manuel-ugarte|21|1.82|droit|Uruguay|Milieu défensif|Sporting CP|liga-portugal| 2026|18|18|10.60 |0|0|6|0
+179.html|marcos-llorente|28|1.84|droit|Espagne|Milieu central|Atlético de Madrid|laliga| 2027|35|80|30.00 |0|1|18|0
+250.html|mohamed-simakan|22|1.87|droit|France|Défenseur central|RasenBallsport Leipzig|bundesliga| 2027|28|28|15.00 |0|0|1|0
+315.html|davide-calabria|26|1.76|droit|Italie|Arrière droit|AC Milan|serie-a| 2025|25|25|0.00|0|0|7|0
+99.html|virgil-van-dijk|31|1.93|droit|Pays-Bas|Défenseur central|FC Liverpool|premier-league| 2025|50|100|103.10 |0|1|54|6
+76.html|marc-cucurella|24|1.73|gauche|Espagne|Arrière gauche|Chelsea FC|premier-league| 2028|55|55|101.10 |0|0|1|0
+207.html|armando-broja|21|1.91|droit|Albanie|Avant-centre|Chelsea FC|premier-league| 2028|30|30|0.00|0|0|17|4
+342.html|rafa-silva|29|1.72|droit|Portugal|Deuxième attaquant|SL Benfica|liga-portugal| 2024|23|30|16.50 |0|0|25|0
+335.html|ilkay-gundogan|32|1.80|droit|Allemagne|Milieu central|Manchester City|premier-league| 2023|25|50|33.35 |0|0|66|17
+270.html|roger-ibanez|24|1.86|droit|Brésil|Défenseur central|AS Roma|serie-a| 2025|27|27|13.30 |0|0|1|0
+159.html|harvey-elliott|19|1.70|gauche|Angleterre|Milieu offensif|FC Liverpool|premier-league| 2027|35|35|1.70 |0|0|3|0
+362.html|ryan-sessegnon|22|1.78|gauche|Angleterre|Milieu gauche|Tottenham Hotspur|premier-league| 2025|22|35|27.00 |0|0|18|1
+227.html|brais-mendez|26|1.84|gauche|Espagne|Milieu offensif|Real Sociedad|laliga| 2028|30|30|14.00 |0|0|4|1
+56.html|jules-kounde|24|1.80|droit|France|Défenseur central|FC Barcelone|laliga| 2027|60|60|85.00 |0|0|18|0
+374.html|mattia-zaccagni|27|1.77|droit|Italie|Ailier gauche|Lazio Rome|serie-a| 2025|22|22|7.31 |0|0|1|0
+231.html|manuel-locatelli|25|1.85|droit|Italie|Milieu défensif|Juventus Turin|serie-a| 2026|30|35|44.00 |0|0|24|3
+40.html|nicolo-barella|26|1.75|droit|Italie|Milieu central|Inter Milan|serie-a| 2026|70|70|44.50 |0|0|42|8
+118.html|robert-lewandowski|34|1.85|droit|Pologne|Avant-centre|FC Barcelone|laliga| 2026|45|90|50.15 |0|1|138|78
+323.html|alex-iwobi|26|1.83|droit|Nigeria|Milieu offensif|FC Everton|premier-league| 2024|25|32|30.40 |0|0|58|10
+289.html|jeremie-frimpong|22|1.71|droit|Pays-Bas|Arrière droit|Bayer 04 Leverkusen|bundesliga| 2025|25|25|11.38 |0|0|0|0
+266.html|jordan-pickford|28|1.85|gauche|Angleterre|Gardien de but|FC Everton|premier-league| 2027|28|40|28.50 |0|0|50|0
+17.html|christopher-nkunku|25|1.78|droit|France|Deuxième attaquant|RasenBallsport Leipzig|bundesliga| 2026|80|80|13.00 |0|0|8|0
+358.html|ezri-konsa|25|1.83|droit|Angleterre|Défenseur central|Aston Villa|premier-league| 2026|22|25|16.15 |0|0|7|1
+7.html|bukayo-saka|21|1.78|gauche|Angleterre|Ailier droit|FC Arsenal|premier-league| 2024|100|100|0.00|0|0|24|7
+83.html|julian-alvarez|23|1.70|droit|Argentine|Avant-centre|Manchester City|premier-league| 2027|50|50|21.40 |1|0|19|7
+421.html|moise-kean|22|1.83|droit|Italie|Avant-centre|Juventus Turin|serie-a| 2025|20|40|64.50 |0|0|12|4
+134.html|angel-correa|27|1.71|droit|Argentine|Ailier droit|Atlético de Madrid|laliga| 2026|40|45|10.50 |1|0|23|3
+476.html|sofiane-diop|22|1.75|droit|France|Ailier gauche|OGC Nice|ligue-1| 2027|18|20|22.00 |0|0|11|4
+499.html|umar-sadiq|26|1.91|droit|Nigeria|Avant-centre|Real Sociedad|laliga| 2028|18|18|33.85 |0|0|7|1
+163.html|amadou-onana|21|1.95|droit|Belgique|Milieu défensif|FC Everton|premier-league| 2027|35|35|47.60 |0|0|4|0
+319.html|amir-rrahmani|29|1.92|ambidextre|Kosovo|Défenseur central|SSC Napoli|serie-a| 2024|25|25|17.90 |0|0|48|6
+460.html|matteo-politano|29|1.71|gauche|Italie|Ailier droit|SSC Napoli|serie-a| 2025|20|30|58.90 |0|0|8|3
+175.html|arnaut-danjuma|26|1.78|droit|Pays-Bas|Ailier gauche|Tottenham Hotspur|premier-league| 2023|35|50|45.76 |0|0|6|2
+437.html|demarai-gray|26|1.83|droit|Angleterre|Ailier gauche|FC Everton|premier-league| 2024|20|22|9.10 |0|0|0|0
+95.html|frenkie-de-jong|25|1.81|droit|Pays-Bas|Milieu central|FC Barcelone|laliga| 2026|50|90|86.00 |0|0|50|2
+122.html|bremer|25|1.88|droit|Brésil|Défenseur central|Juventus Turin|serie-a| 2027|40|40|46.89 |0|0|3|0
+436.html|wout-faes|24|1.87|droit|Belgique|Défenseur central|Leicester City|premier-league| 2027|20|20|17.30 |0|0|1|0
+94.html|mikel-merino|26|1.89|gauche|Espagne|Milieu central|Real Sociedad|laliga| 2025|50|50|25.75 |0|0|11|0
+123.html|anthony-gordon|22|1.82|droit|Angleterre|Ailier gauche|Newcastle United|premier-league||40|40|45.60 |0|0|7|4
+461.html|wissam-ben-yedder|32|1.70|ambidextre|France|Avant-centre|AS Monaco|ligue-1| 2024|20|50|49.50 |0|0|19|3
+174.html|ibrahima-konate|23|1.94|droit|France|Défenseur central|FC Liverpool|premier-league| 2026|35|45|40.00 |0|0|7|0
+318.html|gregor-kobel|25|1.94|droit|Suisse|Gardien de but|Borussia Dortmund|bundesliga| 2026|25|25|22.99 |0|0|4|0
+477.html|xavi-simons|19|1.79|droit|Pays-Bas|Milieu offensif|PSV Eindhoven|eredivisie| 2027|18|18|0.00|0|0|1|0
+498.html|konstantinos-tsimikas|26|1.79|gauche|Grèce|Arrière gauche|FC Liverpool|premier-league| 2025|18|18|13.04 |0|0|24|0
+162.html|karim-adeyemi|21|1.80|gauche|Allemagne|Ailier gauche|Borussia Dortmund|bundesliga| 2027|35|35|40.10 |0|0|4|1
+82.html|eduardo-camavinga|20|1.82|gauche|France|Milieu central|Real Madrid|laliga| 2027|50|60|31.00 |0|1|6|1
+6.html|jamal-musiala|20|1.84|droit|Allemagne|Milieu offensif|FC Bayern München|bundesliga| 2026|100|100|0.200 |0|1|20|1
+420.html|patson-daka|24|1.83|droit|Zambie|Avant-centre|Leicester City|premier-league| 2026|20|22|30.25 |0|0|31|9
+135.html|rodrigo-de-paul|28|1.80|droit|Argentine|Milieu central|Atlético de Madrid|laliga| 2026|40|40|51.55 |1|0|51|2
+359.html|ismaila-sarr|25|1.85|droit|Sénégal|Ailier droit|FC Watford|championship| 2024|22|30|47.00 |0|0|52|11
+16.html|dusan-vlahovic|23|1.90|gauche|Serbie|Avant-centre|Juventus Turin|serie-a| 2026|80|85|84.80 |0|0|19|10
+322.html|enes-unal|25|1.87|droit|Turquie|Avant-centre|FC Getafe|laliga| 2025|25|25|27.40 |0|0|30|3
+288.html|hugo-guillamon|23|1.78|droit|Espagne|Milieu défensif|FC Valencia|laliga| 2026|25|25|0.00|0|0|3|1
+267.html|emiliano-martinez|30|1.95|droit|Argentine|Gardien de but|Aston Villa|premier-league| 2027|28|35|18.90 |1|0|26|0
+41.html|jack-grealish|27|1.80|droit|Angleterre|Ailier gauche|Manchester City|premier-league| 2027|70|100|117.50 |0|0|29|2
+119.html|alexis-mac-allister|24|1.74|droit|Argentine|Milieu central|Brighton &amp; Hove Albion|premier-league| 2025|42|42|8.00 |1|0|14|1
+375.html|viktor-tsygankov|25|1.78|gauche|Ukraine|Ailier droit|Girona FC|laliga| 2027|22|25|5.00 |0|0|43|7
+230.html|manuel-akanji|27|1.88|droit|Suisse|Défenseur central|Manchester City|premier-league| 2027|30|40|39.70 |0|0|47|2
+57.html|eder-militao|25|1.86|droit|Brésil|Défenseur central|Real Madrid|laliga| 2025|60|60|57.00 |0|1|27|1
+363.html|hamed-junior-traore|23|1.77|droit|Côte d'Ivoire|Milieu offensif|AFC Bournemouth|premier-league| 2023|22|22|16.00 |0|0|4|0
+226.html|gianluca-scamacca|24|1.95|droit|Italie|Avant-centre|West Ham United|premier-league| 2027|30|30|40.37 |0|0|9|0
+158.html|pierre-kalulu|22|1.82|droit|France|Défenseur central|AC Milan|serie-a| 2027|35|35|1.29 |0|0|1|0
+334.html|christian-eriksen|31|1.82|droit|Danemark|Milieu central|Manchester United|premier-league| 2025|25|100|42.65 |0|0|120|39
+271.html|orkun-kokcu|22|1.75|ambidextre|Turquie|Milieu central|Feyenoord Rotterdam|eredivisie| 2025|27|27|0.40 |0|0|18|1
+206.html|wilfried-zaha|30|1.80|droit|Côte d'Ivoire|Ailier gauche|Crystal Palace|premier-league| 2023|32|55|17.35 |0|0|30|5
+343.html|domenico-berardi|28|1.83|gauche|Italie|Ailier droit|US Sassuolo|serie-a| 2027|23|35|14.50 |0|0|24|6
+98.html|lucas-hernandez|27|1.84|gauche|France|Défenseur central|FC Bayern München|bundesliga| 2024|50|70|80.00 |1|1|33|0
+77.html|marcus-rashford|25|1.85|droit|Angleterre|Ailier gauche|Manchester United|premier-league| 2024|55|85|0.00|0|0|51|15
+251.html|jesper-lindstrom|22|1.82|droit|Danemark|Milieu offensif|Eintracht Frankfurt|bundesliga| 2026|28|28|7.00 |0|0|9|1
+314.html|borja-iglesias|30|1.87|droit|Espagne|Avant-centre|Real Betis Balompié|laliga| 2026|25|28|38.00 |0|0|1|0
+197.html|evan-ndicka|23|1.92|gauche|France|Défenseur central|Eintracht Frankfurt|bundesliga| 2023|32|32|5.50 |0|0|1|0
+20.html|mohamed-salah|30|1.75|gauche|Égypte|Ailier droit|FC Liverpool|premier-league| 2025|80|150|81.00 |0|1|83|45
+482.html|aaron-wan-bissaka|25|1.83|droit|Angleterre|Arrière droit|Manchester United|premier-league| 2024|18|40|55.00 |0|0|3|0
+178.html|franck-kessie|26|1.83|droit|Côte d'Ivoire|Milieu central|FC Barcelone|laliga| 2026|35|55|33.50 |0|0|60|7
+247.html|yannick-carrasco|29|1.81|droit|Belgique|Ailier gauche|Atlético de Madrid|laliga| 2024|30|40|72.45 |0|0|62|8
+302.html|tete|23|1.75|gauche|Brésil|Ailier droit|Leicester City|premier-league| 2023|25|28|15.00 |0|0|2|0
+181.html|james-ward-prowse|28|1.77|droit|Angleterre|Milieu central|FC Southampton|premier-league| 2026|35|35|0.00|0|0|11|2
+494.html|alfonso-pedraza|26|1.84|gauche|Espagne|Arrière gauche|Villarreal CF|laliga| 2026|18|22|0.00|0|0|14|0
+36.html|achraf-hakimi|24|1.81|droit|Maroc|Arrière droit|Paris Saint-Germain|ligue-1| 2026|70|70|111.00 |0|1|61|8
+210.html|cheick-doucoure|23|1.80|droit|Mali|Milieu défensif|Crystal Palace|premier-league| 2027|30|30|22.60 |0|0|8|0
+355.html|curtis-jones|22|1.85|droit|Angleterre|Milieu central|FC Liverpool|premier-league| 2027|22|30|0.00|0|0|12|3
+61.html|dayot-upamecano|24|1.86|droit|France|Défenseur central|FC Bayern München|bundesliga| 2026|60|60|63.20 |0|0|12|1
+139.html|jose-gaya|27|1.72|gauche|Espagne|Arrière gauche|FC Valencia|laliga| 2027|40|50|0.00|0|0|18|3
+284.html|mohamed-camara|23|1.73|droit|Mali|Milieu défensif|AS Monaco|ligue-1| 2027|25|27|15.00 |0|0|15|3
+142.html|raphael-varane|29|1.91|droit|France|Défenseur central|Manchester United|premier-league| 2025|40|80|51.00 |1|4|93|5
+457.html|fred|29|1.69|gauche|Brésil|Milieu central|Manchester United|premier-league| 2024|20|50|74.00 |0|0|32|0
+379.html|gabriel-barbosa|26|1.78|gauche|Brésil|Avant-centre|Clube Regatas Flamengo|carioca-taca-guanabara| 2024|22|26|51.10 |0|0|18|5
+396.html|strahinja-pavlovic|21|1.94|gauche|Serbie|Défenseur central|Red Bull Salzbourg|bundesliga| 2027|20|20|17.00 |0|0|25|2
+115.html|ivan-toney|26|1.85|droit|Angleterre|Avant-centre|FC Brentford|premier-league| 2025|45|45|6.35 |0|0|0|0
+400.html|mohammed-kudus|22|1.77|gauche|Ghana|Milieu offensif|Ajax Amsterdam|eredivisie| 2025|20|20|9.00 |0|0|21|7
+380.html|thilo-kehrer|26|1.86|droit|Allemagne|Défenseur central|West Ham United|premier-league| 2026|22|35|49.00 |0|0|24|0
+103.html|casemiro|31|1.85|droit|Brésil|Milieu défensif|Manchester United|premier-league| 2026|50|80|99.75 |0|5|69|6
+416.html|nicolas-seiwald|21|1.79|droit|Autriche|Milieu central|Red Bull Salzbourg|bundesliga| 2026|20|20|20.00 |0|0|10|0
+338.html|filip-kosti%C4%87|30|1.84|gauche|Serbie|Milieu gauche|Juventus Turin|serie-a| 2026|24|40|41.15 |0|0|52|3
+292.html|khephren-thuram|21|1.92|droit|France|Milieu défensif|OGC Nice|ligue-1| 2025|25|25|0.00|0|0|14|2
+154.html|patrik-schick|27|1.91|gauche|Tchéquie|Avant-centre|Bayer 04 Leverkusen|bundesliga| 2027|38|50|76.00 |0|0|35|18
+441.html|florian-neuhaus|25|1.85|droit|Allemagne|Milieu central|Borussia Mönchengladbach|bundesliga| 2024|20|38|0.80 |0|0|10|2
